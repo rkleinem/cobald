@@ -45,6 +45,7 @@ if __name__ == "__main__":
                     ("Limiter", "cobald.decorator.limiter"),
                     ("Logger", "cobald.decorator.logger"),
                     ("Standardiser", "cobald.decorator.standardiser"),
+                    ("HintLimiter", "cobald.decorator.hint_limiter"),
                     ("__yaml_tag_test", "cobald.daemon.plugins"),
                 )
             ],
